@@ -1,0 +1,16 @@
+.container{
+  max-width: 500px;
+
+}
+.jumbotron{
+  background-image: url(images/pptpi.jpg);
+  margin-bottom: 5px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+input.razorpay-payment-button{
+  background-color: #ea70a3;
+  padding: 10px 10px 10px 10px;
+  font-size: 1.2rem;
+  box-shadow: 0px 0px 16px #c80de0;
+}
